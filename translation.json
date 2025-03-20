@@ -1,0 +1,52 @@
+{
+    "en": {
+        "welcome": "Welcome to github.com",
+        "goodbye": "Goodbye",
+        "hello": "Hello"
+    },
+    "de": {
+        "welcome": "Willkommen auf github.com",
+        "goodbye": "Auf Wiedersehen",
+        "hello": "Hallo"
+    },
+    "tr": {
+        "welcome": "github.com'ye hoşgeldiniz",
+        "goodbye": "Hoşça kalın",
+        "hello": "Merhaba"
+    },
+    "da": {
+        "welcome": "Velkommen til github.com",
+        "goodbye": "Farvel",
+        "hello": "Hej"
+    },
+    "cz": {
+        "welcome": "Vítejte na github.com",
+        "goodbye": "Sbohem",
+        "hello": "Ahoj"
+    },
+    "pl": {
+        "welcome": "Witamy na github.com",
+        "goodbye": "Do widzenia",
+        "hello": "Cześć"
+    },
+    "ua": {
+        "welcome": "Ласкаво просимо на github.com",
+        "goodbye": "До побачення",
+        "hello": "Привіт"
+    },
+    "ru": {
+        "welcome": "Добро пожаловать на github.com",
+        "goodbye": "До свидания",
+        "hello": "Привет"
+    },
+    "nl": {
+        "welcome": "Welkom op github.come",
+        "goodbye": "Vaarwel",
+        "hello": "Hallo"
+    },
+    "fr": {
+        "welcome": "Bienvenue sur github.com",
+        "goodbye": "Au revoir",
+        "hello": "Bonjour"
+    }
+}
