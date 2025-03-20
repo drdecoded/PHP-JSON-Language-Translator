@@ -17,15 +17,16 @@ Requirements: PHP Sessions
 
 ## Example form for the language settings and the CSFR-Token:
 
+```html
 <form method="POST">
-    <input type="hidden" name="pcstvalueLV" value="<?php echo $_SESSION['pcstLV']; ?>">
+     <input type="hidden" name="pcstvalueLV" value="<?php echo $_SESSION['pcstLV']; ?>">
     <select name="language">
         <option value="en">English</option>
         <option value="de">Deutsch</option>
     </select>
     <button type="submit">Change Language</button>
 </form>
-
+```
 
 ## Possible changes and extensions
 
